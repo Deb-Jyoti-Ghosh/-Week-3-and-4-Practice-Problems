@@ -1,6 +1,6 @@
  import java.util.Scanner;
 
-public class OddEvenNumbers {
+public class Level_2_Question_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
